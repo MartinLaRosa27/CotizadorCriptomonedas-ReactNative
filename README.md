@@ -5,3 +5,4 @@ Aplicación móvil desarrollada con React Native, que tiene como objetivo que lo
 React Native / JavaScript / Cosulta API
 
 # Captura
+![alt text](https://github.com/MartinLaRosa27/CotizadorCriptomonedas-ReactNative/blob/main/resources/captura.png?raw=true)
